@@ -1,0 +1,9 @@
+Basic concept
+DB connection
+CRUD on DB
+Status codes
+Exceptions
+response Model(showing certain fields in response)
+
+##to be done
+security token
